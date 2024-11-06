@@ -1,4 +1,4 @@
-# Subscriptions Release Notes
+Subscriptions Release Notes
 
 <!-- no verify-specs -->
 
